@@ -4,7 +4,7 @@
 
 ###  Download newest ubuntu version from https://ubuntu.com/#download
 
-1. Insert ubuntu Live CD in Virtual CD-ROM of Virtualbox
+### Insert ubuntu Live CD in Virtual CD-ROM of Virtualbox
 
 ###  Configuration for Virtualbox VM Network
 - Bridget Adapter
